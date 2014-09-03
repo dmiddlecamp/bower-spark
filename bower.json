@@ -1,0 +1,22 @@
+{
+  "name": "spark",
+  "version": "0.0.0",
+  "authors": [
+    "David Middlecamp <david@spark.io>"
+  ],
+  "description": "Interact with your Spark Core projects over the web",
+  "main": "spark.js",
+  "keywords": [
+    "spark",
+    "core"
+  ],
+  "license": "MIT",
+  "homepage": "spark.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
